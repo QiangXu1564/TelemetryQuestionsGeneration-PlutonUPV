@@ -1,0 +1,5502 @@
+[    
+    {
+        "Question": "How warm are you right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your current temperature?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you feeling hot or cold?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How's the temperature inside you?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, how's the heat treating you?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "You feeling chilly up there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the temperature in the TRISKEL OBC?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it toasty in the OBC?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How's the thermal situation?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you need a sweater?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the weather like up there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How warm are you feeling right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current temp of the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me your temperature at the moment?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How hot is the TRISKEL OBC today?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you running hot or cool right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the heat level of the Estigia satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How many degrees are you at right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the OBC temperature comfortable?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your current heat reading?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you warmer or cooler than usual?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current thermal status?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your current temperature?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How warm are you feeling right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it hot in there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the temperature of your systems?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you running a bit too hot or cold?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm curious, what's your ambient temperature?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have any cooling issues?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how warm your electronics are?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you feeling overheated or just right?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How would you rate your current temperature level?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to regulate your internal temperature?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How warm are you right now, Estigia?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Feeling hot in space today?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current temp of your systems?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How's the heat handling on the TRISKEL OBC?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you running a bit warm over there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Just curious�how's your temperature holding up?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you feel like you're sweating in space?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the weather like on your satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How's the TRISKEL OBC dealing with the cold?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "You okay thermally, Estigia?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Ever feel the heat from all that solar power?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, what's the current temperature on the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How hot is the TRISKEL OBC right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Got any temperature readings from the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the satellite feeling warm today?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the internal temperature of the OBC at the moment?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How's the heat level up there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the temperature on the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Any idea how hot the TRISKEL OBC is?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current temp reading?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it getting warm on the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How many degrees is the OBC running at now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How warm are you right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your current temperature like?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you feeling hot at the moment?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how cold it is on board?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it chilly or warm where you are?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you feel like a cozy satellite right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How's the weather on the satellite? Hot or not?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you getting too hot up there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your temperature reading like today?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it freezing cold outside your hull?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you adjust your internal temp to a more comfortable level?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how's the temperature looking up there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, are you feeling the heat right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How warm are you, buddy? Just curious!",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, what's the current temp on the TRISKEL OBC?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, is it chilly or hot where you are?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How's the temperature holding up on the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, do you ever get too hot up there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the temp like on the TRISKEL OBC these days?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, are you running a bit warm lately?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How's the heat handling on the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, just wondering�how warm is it where you are?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how warm are you feeling right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current temp on the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the TRISKEL OBC feeling a bit warm today?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the temperature reading at the moment?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How hot is it up there on the satellite?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you guys get a bit of a heat wave up there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the internal temp steady or is it fluctuating?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you let me know the present temperature of the OBC?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Any temperature alerts coming through?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How much heat is the satellite generating right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the temperature differential across the TRISKEL OBC?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How warm is it on board?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you feeling chilly in space?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the temperature like right now?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it cold up there?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "How warm are you at the moment?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have any heat issues?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me your current temp?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it hot or cold where you are?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you experiencing any thermal problems?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the temperature of your systems?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Is your system running too hot?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the current temperature?",
+        "Label": "GET_TEMP",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, can you tell me how much current the TRISKEL OBC uses?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the amperage draw for the TRISKEL on-board computer?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much power does the TRISKEL OBC consume in normal operation?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a specific current value listed for the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the typical current draw of the TRISKEL system?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the TRISKEL OBC have a known amperage rating?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much electricity does the TRISKEL OBC need to run?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you share the current consumption details for the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the maximum current the TRISKEL OBC uses?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the TRISKEL OBC's power usage in amps documented somewhere?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the TRISKEL OBC's current consumption compare to other satellites?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how many amps is the TRISKEL OBC pulling right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the current consumption of the TRISKEL on-board computer?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the current draw of the TRISKEL OBC at this moment?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have the current amperage for the TRISKEL OBC handy?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much current is the TRISKEL OBC using at the moment?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the instantaneous current consumption of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Give me the current usage of the TRISKEL OBC.",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "I�d like to know the current draw of the TRISKEL OBC.",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you report the TRISKEL OBC's current consumption?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What amperage is the TRISKEL OBC drawing right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How many amps is the TRISKEL OBC pulling today?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current amperage of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the current consumption of the on-board computer?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much power is the TRISKEL using right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it possible to get the current current value from the OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "I need the current ampere reading for the TRISKEL, can you provide that?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current status of the amperage on the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much current is the onboard computer consuming?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I get an update on the current current consumption of the TRISKEL?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "I want to know the current amperage value, how do I get that?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to check the current power usage of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current amperage reading for the onboard computer?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, do you know what the typical current draw of the TRISKEL OBC is during normal operations?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the maximum amperage the TRISKEL OBC might consume under heavy load?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much power does the TRISKEL OBC use when it's just idling?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to check the real-time current consumption of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the average current the TRISKEL OBC uses during data transmission?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the TRISKEL OBC have different power modes that affect its current draw?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the current consumption of the TRISKEL OBC compare to other satellite OBCs?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how the TRISKEL OBC manages its power usage to avoid spikes in current?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What factors influence the amperage of the TRISKEL OBC the most?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a minimum current requirement for the TRISKEL OBC to function properly?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How precise are the current measurements for the TRISKEL OBC, and who handles them?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much current is the TRISKEL drawing right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the current consumption of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What is the amperage the TRISKEL on-board computer is using at the moment?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have the current draw stats for the TRISKEL hardware?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the TRISKEL currently using a lot of power? What�s the current?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the current draw in amps of the TRISKEL during operations?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me the TRISKEL OBC�s current consumption figure?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How many amps is the TRISKEL pulling right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the TRISKEL on-board computer�s current usage at this time?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know the TRISKEL's current consumption during its active mode?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you share the current draw of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current draw of my TRISKEL when it's just idling?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much power does my OBC consume during normal operation?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me what ampere rating I should expect for each module on board?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a specific amperage value I need to know for safe charging cycles?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current consumption like when running diagnostics on the TRISKEL?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have an updated current draw spec sheet for our current flight configuration?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm getting some weird readings - what could be causing my OBC's current spike?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How does current consumption change during a solar panel array reset?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the typical amperage range I can expect from the TRISKEL under normal usage?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an idea of how much power my onboard systems would consume in idle mode?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there any specific safety precautions we should take regarding current draw?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, can you tell me what's the current draw of the TRISKEL OBC right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much power does the TRISKEL OBC use in normal operation?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the amperage consumption of the TRISKEL OBC at this moment?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know how much electricity the TRISKEL OBC is using currently?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you share the current consumption value for the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the typical current draw for the TRISKEL OBC when it's active?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much current is the TRISKEL OBC pulling right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to check the real-time amperage of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the maximum current the TRISKEL OBC can consume?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you let me know the current usage of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the current consumption of the TRISKEL OBC compare to other systems?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, what's the current draw of the TRISKEL on-board computer right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how many amps the TRISKEL OBC is pulling at the moment?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know the current consumption of the TRISKEL system currently?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How much current is the TRISKEL OBC using right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me the instantaneous amperage of the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current rating of the TRISKEL on-board computer at the moment?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How many amps is the TRISKEL OBC drawing right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have the current consumption figure for the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What is the current draw of the TRISKEL OBC at this time?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the current consumption of the TRISKEL OBC right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the amperage the TRISKEL on-board computer is using currently?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the current amperage reading on the TRISKEL OBC?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how much power is being consumed by the TRISKEL computer right now?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "I need to know the current draw of the TRISKEL system, can you give me that info?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How many amps is the TRISKEL OBC currently pulling from the satellite's power source?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you show me the latest reading on the TRISKEL current consumption level?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm trying to troubleshoot a power issue with the TRISKEL, what's its current amperage?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there any way to get the TRISKEL OBC's current power usage in real-time?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an idea of how much current the TRISKEL system is consuming at this moment?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "I need help understanding why my code isn't working, can you share the current amperage on the TRISKEL?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the expected and actual current consumption for the TRISKEL OBC in normal operation conditions?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I retrieve the current power draw from the TRISKEL system using your API?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, can you tell me how much current the TRISKEL OBC uses?",
+        "Label": "TRISKEL_GET_CURRENT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me the current altitude of your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hi, what's the semi-major axis of your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How high up are you right now?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have the altitude value for your current position?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the size of your orbit in terms of semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you share the altitude you're at?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to calculate altitude from the semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between altitude and semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you determine your altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me the numerical value of your altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the semi-major axis length for your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current altitude of the satellite?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How high is my orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my altitude above the Earth's surface?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "I need to know how big my orbit is, what's the semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me my current orbital altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How far am I from the center of the Earth in this orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "My orbit size is pretty small, can you give me its semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my maximum and minimum altitudes during each orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm curious about the altitude at perigee, can you tell me that?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to get my orbit's semi-major axis value?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me a numerical value for my current altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How tall is my orbit above sea level?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, can you tell me what your current altitude is?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How high up are you right now, Estigia?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the numerical value of your orbit's altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you share the semi-major axis of your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm curious�how big is your orbit's semi-major axis exactly?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is the altitude important for your mission?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how the semi-major axis defines your orbit size?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between altitude and semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the altitude change as you orbit the Earth?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me the current altitude in kilometers?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "I heard the semi-major axis is key for orbital calculations�can you confirm that?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the altitude of the satellite right now in kilometers?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you share the current semi-major axis of your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know how high you are above Earth at this moment?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the numeric value of your orbit's size?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your current altitude in km, Estigia?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How far above the Earth's surface are you right now?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the length of your semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you tell me the altitude of your orbit in meters?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have a numeric value for your orbital altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the semi-major axis length of your orbit in km?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How high are you orbiting above the Earth, in kilometers?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current altitude of my orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How high am I right now in this orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the semi-major axis value for my orbit size?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the numerical value of my altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I calculate the semi-major axis from my orbit data?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to get the altitude values at different points in time?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "I want to know the average altitude of my orbit over time.",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you provide the current altitude and velocity at once?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the smallest and largest altitude value I've seen so far?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I determine if my orbit is elliptical or circular based on semi-major axis values?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me a quick way to get the maximum altitude in my orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me what the current altitude of your orbit is?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the semi-major axis of your orbit right now?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How high up are you right now, Estigia?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you share the altitude value for your current orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm curious�what's the size of your orbit in terms of semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, do you know your current altitude? Can you let me know?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the numerical value for the semi-major axis of your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your orbit's altitude compare to other satellites?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, can you give me the altitude of your orbit in kilometers?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current semi-major axis measurement for your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you tell me the altitude of your orbit and how it defines the size?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's your current altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you share the semi-major axis of your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What altitude are you orbiting at right now?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me your orbital height in kilometers?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know the distance from Earth's surface that you maintain?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the numerical value of your semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How far above Earth are you in your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your altitude if I want to calculate your orbit size?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you tell me your orbital altitude in meters?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the number that defines the size of your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have the exact altitude value for your orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my current altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how high up I am right now?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the semi-major axis for this orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to get the altitude of my orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I find out what orbit size I'm in?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the current altitude value please?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the height above the surface at this point?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have any info on the semi-major axis for this orbit?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "I need to know the altitude, can you help with that?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How high am I flying right now?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you provide the semi-major axis value?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me my current altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the size of my orbit in terms of the semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you let me know both my altitude and the semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How high am I right now in kilometers?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the semi-major axis length in meters?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to calculate altitude from the semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the semi-major axis relate to my orbit's altitude?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "If I were in a higher orbit, how would that affect the semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the lowest point of my orbit called again?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain the difference between altitude and semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Does my altitude change over time, and how does that impact the semi-major axis?",
+        "Label": "ORBIT_GET_ALT",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, what's your orbit like? Circular or more oval-shaped?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate your orbital eccentricity?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is your orbit's eccentricity important for your mission?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is your orbit more circular or more elliptical?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What would happen if your orbit had an eccentricity of 0.9?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your eccentricity compare to other satellites?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain what orbital eccentricity means in simple terms?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your orbit's shape affect your data collection?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the highest eccentricity your orbit can have?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you measure your orbit's eccentricity?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Would a higher eccentricity make your orbit more unstable?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "I�m not sure I understand�do you want the 11 questions listed as plain text, or would you like them wrapped in a JSON array?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How eccentric is my orbit?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the shape of my orbit, anyway?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it a circle out there or what?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how elliptical I am?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do I have any orbital irregularities to worry about?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Am I following a perfect circular path around Earth?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How close is my orbit to being perfectly round?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Are there any orbital eccentricities that I should know about?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the deal with my orbit, it feels really wonky!",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an idea of how elliptical my orbit is on a scale of 1-10?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is my orbit so circular that it's basically just a line?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's your orbit like? Is it more circular or stretched out?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you know if your path is perfectly round or more oval-shaped?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "If I saw your orbit from space, would it look like a circle or an ellipse?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What number tells us how 'squashed' your orbit is?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you ever wonder why your orbit isn't a perfect circle?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to tell if your orbit is more elliptical than others?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your eccentricity compare to other satellites?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens to your orbit when the eccentricity is really close to 1?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain what 'eccentricity' means in simple terms?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your orbit ever get really close to Earth, or is it always the same distance?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How would your orbit change if your eccentricity was 0.5 instead of what it is now?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how eccentric is your orbit? Is it pretty close to a circle?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "So, if my orbit's eccentricity is 0, that means I'm going round in a perfect circle, right?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you tell me what eccentricity value means I'm on a more elongated path?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What would the eccentricity be if my orbit were highly elliptical?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "If my orbit's eccentricity is 0.5, how stretched out would that be?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, do you have a way to calculate eccentricity from the orbital parameters?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between an eccentricity of 0.9 and 0.95 for a satellite?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a rule that tells us how far the satellite gets from the planet at periapsis and apoapsis given the eccentricity?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "If my orbit were perfectly circular, what would that mean for the speed variations during the orbit?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does eccentricity affect the satellite's coverage area over time?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "If I wanted to make my orbit more circular, what adjustments would I need to make?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how close is your orbit to being circular?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's a good number to aim for if I want an elliptical orbit?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it possible to have an eccentricity of exactly 1?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the shape of my orbit affect its speed?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you get slower as you move away from Earth in your orbit?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you be more precise about what range is considered circular?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's a typical value for eccentricity in our solar system?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Are there any objects with really high or low eccentricities?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the mass of the central body impact orbital shape?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it true that comets have very high eccentricities?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I have some examples of planets with varying levels of eccentricity?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey there, can you explain what orbital eccentricity actually means? Like, what's the deal with numbers between 0 and 1?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "So, how do I figure out if an orbit is perfectly circular or more elliptical?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, if a satellite has an eccentricity of 0.1, is that considered a really round orbit?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me a simple example of something with a high eccentricity orbit?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between a circular orbit and one that's super elliptical?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, why do some orbits have such weird shapes? Is it because of eccentricity?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does eccentricity affect how a satellite moves around a planet?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "If I see an eccentricity value of 0.9, does that mean the orbit is almost a straight line?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how scientists measure orbital eccentricity in real life?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens to a satellite's path if the eccentricity is exactly 0.5?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, is there a way to calculate eccentricity just by looking at the orbit's shape?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the current orbital eccentricity of your path?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is your orbit more circular or elliptical right now?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How close to 1 is your eccentricity? I'd love to see if you're in a tight ellipse.",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me if your eccentricity is 0 or close to it?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What does your orbit's eccentricity say about your trajectory?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have a perfectly circular orbit, or is it a bit elliptical?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the eccentricity affect your day-to-day operations?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you share how eccentric your orbit is? Just a number would be cool.",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you notice any changes in eccentricity over time?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What would be the eccentricity if you were in a perfectly circular orbit?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is your orbit more like a circle or a stretched ellipse? Curious!",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how eccentric is my orbit?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the deal with your eccentricity value - is it just a number or what?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "I've got an elliptical orbit, that much I know, but can you tell me exactly how elliptical?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to calculate my orbital eccentricity based on other values?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "My friends say I'm a bit of a wild child in space - is that because of your eccentricity value?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "I've heard 0 is circular and close to 1 is elliptical... but what's the exact dealio?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your eccentricity affect my orbit's shape overall?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an example of a low-eccentricity orbit vs. a high-eccentricity one?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do I need to know my orbital eccentricity for navigation purposes or is it just for fun?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm trying to determine if my orbit is stable - how does eccentricity play into that?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a minimum or maximum value for orbital eccentricity in our solar system?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the deal with orbital eccentricity? Like, what does it even mean?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "So, if the eccentricity is 0, does that mean my orbit is a perfect circle? No wiggles or anything?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate eccentricity? Is it like some complicated formula or just a simple measurement?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "I heard elliptical orbits have higher eccentricity. How does that affect your path around the planet?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the biggest difference between a circular orbit and one that's really elliptical?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do comets have really high eccentricity? Like, super stretched-out orbits?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "If my orbit had an eccentricity of 0.5, would that make it really squashed or just a bit oval?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does eccentricity affect how fast you move in your orbit? Do you go faster when you're closer?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can eccentricity ever be more than 1? Like, would that be a hyperbolic orbit or something?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you measure your own eccentricity? Is it something you calculate from your position data?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do other satellites in space have different eccentricities, or is it pretty much the same for everyone?",
+        "Label": "ORBIT_GET_ECCENTRICITY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's your orbit's inclination compared to Earth's equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is your orbital tilt important for your mission?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your inclination let you see both poles?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your angle relate to the equator exactly?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is your orbit's inclination fixed or does it change?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the main reason for your specific orbital tilt?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your inclination affect your view of Earth?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain your orbit's angle in simple terms?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your inclination help you avoid space debris?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your orbital tilt compare to other satellites?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What would happen if your inclination changed suddenly?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what�s your orbital inclination in degrees relative to the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you tell me how many degrees your orbit tilts from the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the current inclination angle of your orbit?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "I�m curious, how steep is your orbit compared to Earth�s equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know the inclination of your path around Earth?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How many degrees does your orbit incline from the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the angle of your orbit relative to the equatorial plane?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me your inclination in degrees?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How much do you tilt from the equator in your orbit?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the precise inclination of your trajectory?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you share your orbital inclination value in degrees?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's our inclination angle relative to Earth's equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How many degrees are we inclined from the equatorial plane?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the orbital inclination in decimal degrees?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is our orbit tilted at a significant angle from the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "At what angle do we cross over from the Southern Hemisphere to the Northern Hemisphere?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between our orbital inclination and that of the ISS?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does our inclination affect our communication with Earth stations?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you provide the orbital inclination in degrees, minutes, and seconds?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is our orbit inclined at a very shallow or steep angle?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "At what point do we reach our maximum Northern or Southern latitude?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have any information about how our inclination changes over time?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me what your orbit's inclination is compared to Earth's equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is your orbital inclination important for your mission?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How do scientists measure your orbit's angle relative to the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your inclination affect how much of Earth you can observe?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the usual range of inclinations for satellites like you?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "If your inclination was 90 degrees, would that mean you're in a polar orbit?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your inclination influence your ability to communicate with ground stations?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you ever experience changes in your orbital inclination over time?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your inclination compare to satellites in low Earth orbit?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is your specific inclination chosen for your mission?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "If your inclination was zero degrees, would you be orbiting directly over the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the orbital inclination of your current orbit, in degrees relative to the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how steep your orbit is compared to the Earth's equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the inclination angle of your path around Earth?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is your orbit closer to polar or equatorial? What's the exact degree?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How many degrees off the equatorial plane are you traveling?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your orbital inclination angle in degrees?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me the inclination measurement for your orbit?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What is your current inclination relative to the Earth's equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have a fixed inclination? If so, what is it in degrees?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "If I wanted to know how tilted your orbit is, what number would you give me?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What is the inclination of your orbit, measured from the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my inclination angle if I'm orbiting over Tokyo?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it possible to have an orbital inclination of exactly 90 degrees?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the orbital inclination for a satellite in geostationary orbit?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "I heard that inclinations above 90 degrees are weird, is that true?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate the orbital inclination from the launch site?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I adjust my satellite's inclination after deployment?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a minimum or maximum allowed inclination for satellites in Earth's orbit?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the average orbital inclination for commercial communication satellites?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the orbital inclination affect my satellite's visibility from the ground?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm planning to launch a satellite over the South Pole, what's its inclination going to be?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it harder to control a satellite with high orbital inclination?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's your current orbital inclination in degrees relative to the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "So, why is your orbit tilted at that specific angle compared to Earth's equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your orbital inclination affect how much of Earth you can see from space?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your inclination compare to other satellites in the same orbit?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "If your inclination changed, would that mess up your mission objectives?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how they measured your orbital inclination in the first place?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your current inclination make it easier or harder to communicate with ground stations?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to adjust your orbital inclination if needed, or is it fixed?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Why isn't your orbit perfectly aligned with the equator? What's the reason behind that?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your orbital inclination impact the amount of sunlight you get throughout the day?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Have you always had the same inclination, or has it changed over time since you launched?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me our orbital inclination right now?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is our inclination close to 0�, so we're almost equatorial?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How much do we tilt relative to the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there any change in inclination as we orbit the Earth?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Do we have a retrograde orbit or prograde, based on our inclination?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain what 90� inclination would mean for us?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What instruments measure our inclination?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Does our mission plan require a specific inclination angle?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Could we adjust our inclination to avoid space debris?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How precise is the inclination measurement from Estigia?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can we calculate the orbital inclination from our telemetry data?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's my orbital inclination in degrees?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "So, how much am I tilted relative to the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me my orbit inclination in decimal degrees?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my orbit inclination angle measured from the equatorial plane?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is my orbital inclination close to 0 degrees or way out at 90?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm a little confused, what does it mean if my inclination is negative?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "How does my orbit inclination affect my communication with Earth?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me a rough idea of how many degrees I am inclined from the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the orbital inclination that would make my orbit appear highest in the sky?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there any way to calculate my new orbital inclination if I adjust my trajectory?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "I've heard of polar orbits, what's their inclination angle compared to other types?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's your orbital inclination in degrees relative to the equator?",
+        "Label": "ORBIT_GET_INCLINATION",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me what RAAN is?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I calculate RAAN for a satellite's orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is RAAN important for orbital orientation?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how RAAN defines the orbit's plane?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Does RAAN change over time, or is it fixed?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do missions use RAAN to plan satellite paths?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between RAAN and inclination?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you show me how to find RAAN from orbital data?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is RAAN the same for all satellites in the same orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How does RAAN affect communication with ground stations?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "By the way, how precise does RAAN need to be for accurate tracking?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, could you tell me what my current RAAN is?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the Right Ascension of the Ascending Node for my orbit at the moment?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the latest RAAN value?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "I need the RAAN for my trajectory, what's it?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my orbit's RAAN right now?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you pull the current RAAN?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, what's the RAAN reading for my satellite?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you update me on my Right Ascension of the Ascending Node?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the RAAN value as of now?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have the latest RAAN for my orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Just checking�what's my RAAN right now?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the formula to calculate RAAN in the Orbital Mechanics framework?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I interpret the given RAAN value as an angle within a specific orbital plane?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain why RAAN is important for spacecraft navigation and control?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm trying to determine the RAAN of a satellite with a polar orbit. Can you guide me through it?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between RAAN and other right ascension angles like RAN or RA?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I convert the given RAAN from radians to degrees?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you provide examples of real-world applications where knowing the RAAN is crucial?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a relationship between RAAN and the orbital inclination with respect to the equator?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the impact on orbital orientation when changing the RAAN value by 180 degrees?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm having trouble understanding how RAAN affects the satellite's communication links. Can you help clarify it?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you recommend any online resources or tools for calculating and visualizing RAAN in 3D?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you explain what RAAN is and why it matters for my satellite's orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I find the RAAN for a specific satellite's trajectory?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is RAAN related to the orbital inclination, or are they completely separate?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you show me how to calculate RAAN using orbital elements?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Why does RAAN change over time for a satellite in orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How does RAAN affect the orientation of a satellite's path around Earth?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm confused�how is RAAN different from the argument of periapsis?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What data do I need to determine RAAN for a new mission?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can RAAN be determined from ground-based observations alone?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How does RAAN influence the satellite's visibility from Earth?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "If my RAAN calculation is off, what kind of errors could that cause?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, could you tell me the current RAAN value?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the RAAN for the satellite right now?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know what the RAAN is on this orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you define the RAAN for the satellite's orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the RAAN in degrees?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the right ascension of the ascending node at the moment?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the RAAN changing quickly? What�s it now?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What is the RAAN for the last orbit you completed?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you explain how RAAN influences the orbit orientation?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the RAAN in radians?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to predict future RAAN values?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current Right Ascension of the Ascending Node, Estigia?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the RAAN value for a satellite in geostationary orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the RAAN change over time due to Earth's elliptical orbit around the Sun?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to calculate RAAN using only my launch site coordinates and date?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between RAAN and longitude of the ascending node?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you provide me with the RAAN for an object in polar orbit at 600 km altitude?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How accurate is the RAAN value provided by your navigation system, Estigia?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a relationship between RAAN and the satellite's ground track over time?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I get the RAAN for a specific orbital plane, like the HEO-HEO transfer orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the RAAN change when the satellite crosses from one hemisphere to another?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the RAAN affect the satellite's visibility from a given location on Earth?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you explain what RAAN is in simple terms?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I find the RAAN for a satellite's orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is RAAN important for understanding orbital orientation?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Does RAAN change over time, or is it fixed?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an example of how RAAN defines a satellite's path?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How is RAAN different from the argument of periapsis?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What tools or data do I need to calculate RAAN?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is RAAN related to the satellite's inclination?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How does RAAN affect the satellite's position relative to Earth?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how RAAN is measured in practice?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Why do we need RAAN when planning satellite missions?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the current RAAN of your orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, could you share your RAAN value?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know how the RAAN affects my satellite's orientation?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you explain what RAAN stands for?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I use the RAAN to predict your next pass?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the RAAN constant or does it change over time?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What factors influence your RAAN?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How can I calculate the RAAN from your telemetry?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the RAAN impact communication windows?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I get a live update of your RAAN?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is the RAAN important for mission planning?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How does RAAN relate to the orbit's orientation in space?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a standard unit of measurement for RAAN that I should use?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain why the RAAN is important for determining an orbit's path?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between RAAN and RADEC?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "If the RAAN changes, what else might be affected in my orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I calculate the RAAN from a given orbital element set?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Are there any online tools or libraries that can help me convert RAAN values?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give an example of how to use RAAN to plan an interplanetary transfer orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the relationship between RAAN and the orbit's semi-major axis?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it possible to calculate RAAN for a highly eccentric orbit?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "How does RAAN impact the design of my spacecraft's communication system?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me what RAAN is and why it's important for orbits?",
+        "Label": "ORBIT_GET_RAAN",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how the Argument of Perigee is measured?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is the Argument of Perigee important for your orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the Argument of Perigee affect your path around Earth?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you track changes in the Argument of Perigee over time?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you determine the closest point in your orbit to Earth?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the Argument of Perigee the same for all satellites?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the Argument of Perigee help in planning your missions?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you compare the Argument of Perigee to other orbital elements?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you use the Argument of Perigee to avoid collisions?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if the Argument of Perigee shifts unexpectedly?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the perigee angle affect the satellite's speed?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is the argument of perigee important for mission planning?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how perigee is calculated from orbital elements?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens to the perigee when the orbit is highly elliptical?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How do gravitational perturbations shift the argument of perigee over time?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What tools can I use to measure the perigee from Earth?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the perigee the same as the closest approach point in the orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How often does the perigee angle change for a low Earth orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can atmospheric drag alter the argument of perigee significantly?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the perigee angle influence the ground track of the satellite?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What should I watch for if the perigee gets too low for a mission?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current argument of perigee for my satellite?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the argument of perigee when we're at our closest point to Earth?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it possible to get a perigee argument without knowing the orbital elements?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between the argument of perigee and the longitude of perigee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How can I calculate the argument of perigee if I have the semi-major axis and eccentricity?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain why the argument of perigee is important in space mission planning?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to convert the argument of perigee from radians to degrees?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the relationship between the argument of perigee and the right ascension of the ascending node?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How often does the argument of perigee change due to gravitational influences?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you provide an example of how to use the argument of perigee in a satellite trajectory simulation?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it possible to get real-time updates on the argument of perigee for a specific satellite?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what exactly is the Argument of Perigee and why does it matter for your orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you figure out where your closest point to Earth is�like, is there a special way to calculate it?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the Argument of Perigee ever change, or is it fixed once your orbit is set?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "If I wanted to track your closest approach to Earth, how would I use the Argument of Perigee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how the Argument of Perigee relates to your orbital path compared to, say, the Moon�s?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Why do some satellites have different Arguments of Perigee than others? Is it about their mission?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How precise does the Argument of Perigee need to be for things like communication or imaging?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you ever adjust your orbit to change the Argument of Perigee, or is it a one-time thing?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "If I saw a graph of your orbit, how would the Argument of Perigee show up on it?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if there�s a mistake in calculating the Argument of Perigee�would that mess up your mission?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the Argument of Perigee affect how often you pass over the same spot on Earth?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me where the perigee point is in your orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "So, how close does your perigee get to Earth?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What factors affect the exact location of your perigee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "If my orbit changes, will the perigee shift too?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you explain how the argument of perigee differs from the perigee itself?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How often do you pass through your perigee each orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the perigee affect your signal strength or coverage?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What tools do you use to calculate your perigee during mission planning?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a typical range for perigee altitude for satellites like you?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you ever adjust your orbit to change the perigee for a specific mission?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the most interesting thing you've observed near your perigee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the Argument of Perigee in degrees for my current orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the position angle of my perigee relative to the ascending node?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How close is my satellite to Earth at its closest point now?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have the orbital inclination and longitude of the ascending node handy?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the Mean Motion for the Argument of Perigee value we're looking for?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I get some info on the Argument of Perigee in both degrees and radians?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to calculate the semi-major axis from the perigee data?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the Earth's gravitational influence affect my satellite's perigee position?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know the type of orbit I'm in based on its perigee characteristics?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can we talk about the relationship between eccentricity and Argument of Perigee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to determine the longitude of the perigee from the given data?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you explain what the Argument of Perigee actually means in simple terms?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the deal with perigee? Why is it the closest point to Earth?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate the Argument of Perigee? Is it based on some specific measurements?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the Argument of Perigee ever change over time, or is it fixed for an orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is knowing the perigee important for satellites like yourself?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give an example of how the Argument of Perigee affects a satellite's mission?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the perigee relate to other orbital elements like the inclination or eccentricity?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to visualize the Argument of Perigee, like with a diagram or something?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if a satellite's orbit has a very low perigee? Are there any risks involved?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How precise do you have to be when determining the Argument of Perigee for accurate orbital predictions?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Do other planets or celestial bodies influence the Argument of Perigee in any way?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what�s the argument of perigee for my current orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain what the perigee angle means for the satellite's path?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the argument of perigee changing over time, or is it constant?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the perigee point affect the satellite�s visibility from the ground?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "If the perigee is too low, could it cause atmospheric drag issues?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the typical range for the argument of perigee in Earth orbits?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I calculate the argument of perigee from my orbital elements?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the perigee angle influence the timing of my communication windows?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you tell me the perigee of the Estigia satellite right now?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the perigee angle relate to the inclination and eccentricity?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What would happen if the perigee aligns with the equator?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the argument of perigee when I pass by Earth's orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the orbit's shape change with different arguements of perigee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a specific value for the argument of perigee that's closest to my orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how much time it takes to reach its perigee point from apogee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Are there any effects on satellite signal strength due to varying arguements of perigee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have a table or chart showing the argument of perigree over time?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How does climate change affect the argument of perigee in Earth's orbit?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I get a diagram illustrating how the argument of perigee affects satellite altitude?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there any relationship between the argument of perigee and atmospheric drag on satellites?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens when multiple objects have the same argument of perigee, do they intersect?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Are there any mission planners or scientists who specialize in optimizing orbits for specific arguements of perigee?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you explain what the Argument of Perigee actually means in simple terms?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you determine the exact point in my orbit where I�m closest to Earth?",
+        "Label": "ORBIT_GET_PERIGEE",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, can you tell me where you are right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate your true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between true anomaly and mean anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your true anomaly change quickly as you orbit?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is true anomaly important for tracking your position?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how your orbit affects your true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How often does your true anomaly update in real-time?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What factors influence your true anomaly the most?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to predict your true anomaly at a future time?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does your true anomaly compare to other satellites in the same orbit?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you show me how your true anomaly changes over one full orbit?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's my satellite's true anomaly right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you tell me the real-time true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current angular position of my satellite?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I get the true anomaly at this moment?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to fetch the true anomaly on the fly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the true anomaly for my satellite right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have the latest true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me the true anomaly in real time?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my satellite's true anomaly today?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Any way to get the true anomaly without delay?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the true anomaly of my satellite right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my current position in space?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me your True Anomaly right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How far am I from the Earth at this moment?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the actual angle of my orbit around the Earth?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you currently ascending or descending through the sky?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I get an update on your current angular position?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How long until you reach your next orbital mark?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the True Anomaly for my specific satellite?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have a real-time update on my orbiting angle?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it time for your next orbital adjustment?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you share the exact angle of my orbit with me?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me where you are right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your current true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate your real-time angular position?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is the true anomaly important for tracking satellites?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Does your true anomaly change constantly as you orbit?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How is the true anomaly different from the mean anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how gravity affects your true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How precise is your true anomaly measurement?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to visualize your true anomaly in real time?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens to your true anomaly during a satellite's orbit?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the true anomaly help in predicting your position?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the satellite's true anomaly right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the current true anomaly for my orbit?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the true anomaly at this moment, buddy?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you share the real-time true anomaly value?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, what's the angle of the satellite in its orbit right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I get the instantaneous true anomaly from you?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the true anomaly status currently?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know the true anomaly at this instant?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the satellite's angular position now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How far along the orbit is the satellite right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me the true anomaly reading?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my current True Anomaly position?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How far have I moved in terms of True Anomaly since last check?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me my True Anomaly right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm trying to track an object, what's the True Anomaly for that?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does my True Anomaly change over time?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's a realistic estimate for my next True Anomaly shift?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I get historical data on my True Anomaly trajectory?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How often do you update your True Anomaly readings for me?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there any variation in my True Anomaly due to orbit adjustments?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm experiencing some issues, what could be affecting my True Anomaly reading?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Are there any known patterns or cycles in my True Anomaly behavior?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me what your true anomaly is right now? I�m just curious about where you�re pointing in your orbit.\n",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "So, how do you calculate your true anomaly? Is it based on your position relative to Earth or something else?\n",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is the true anomaly different from the mean anomaly? Like, what makes it �true�?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the true anomaly change a lot as you orbit, or is it pretty stable?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how your true anomaly helps track your real-time position in space?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "I�ve heard terms like eccentric anomaly�how does that relate to your true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is your true anomaly affected by gravitational pulls from other celestial bodies?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How precise is your true anomaly measurement? Like, do you use sensors or math for that?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "If I wanted to predict where you�ll be in 10 minutes, would your true anomaly help with that?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you ever get confused between true anomaly and argument of periapsis? Just asking for clarity.",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "If I imagine your orbit as a circle, where exactly would your true anomaly place you on that circle right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's your current true anomaly right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me where you are in orbit in terms of true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What angle are you at from periapsis at this moment?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How far along the orbit are you measured in true anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me your current True Anomaly value?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my actual angular position at this moment?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "I need the real-time True Anomaly, can you provide it?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I get the current True Anomaly for your satellite?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the exact angle of your orbit right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I have the True Anomaly value in degrees?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to get the actual angular position of your satellite?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm trying to understand your orbit, can you give me the current True Anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I calculate my position based on your current True Anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between semi-major axis and True Anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me why my requests for True Anomaly are being rejected?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me what your true anomaly is right now?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the deal with true anomaly compared to other orbital angles?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate your true anomaly in real time?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain why true anomaly matters for tracking your position?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is your true anomaly affected by gravitational pulls from other objects?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How often does your true anomaly change, and why?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you show me how to convert your true anomaly into another orbital parameter?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between true anomaly and mean anomaly?",
+        "Label": "ORBIT_GET_TRUE_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the mean anomaly and why is it important for orbits?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate the mean anomaly from the orbital elements?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain the difference between mean anomaly and true anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the mean anomaly help in predicting a satellite's position?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What role does the mean anomaly play in Kepler's equations?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How often is the mean anomaly updated for a satellite like you?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give an example of when the mean anomaly is used in real missions?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the mean anomaly relate to the eccentric anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if the mean anomaly calculation has an error?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the mean anomaly affect the orbital period calculations?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Are there any tools or software that use the mean anomaly for orbit predictions?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you explain what mean anomaly actually means?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I calculate the mean anomaly if I only have the orbital period?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the difference between mean anomaly and true anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is mean anomaly constant over time or does it change?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can I use mean anomaly to predict when a satellite will reach perigee?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the mean anomaly relate to the orbital elements I see in the ephemeris?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do I need to know the mean anomaly to launch a satellite into a specific orbit?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How accurate is the mean anomaly if the orbit is slightly elliptical?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What tools can help me compute mean anomaly quickly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a simple rule of thumb to estimate mean anomaly without a calculator?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can the mean anomaly help me determine the satellite�s position in space at a given time?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's a Mean Anomaly in orbital calculations?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does one calculate the Mean Anomaly for a specific orbit?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain why we use Mean Anomaly instead of just any old position?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between Mean Anomaly and Eccentric Anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I get the Mean Anomaly from a satellite's state vectors?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there an easy way to convert Mean Anomaly to another orbital parameter?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me some examples of when Mean Anomaly is used in practice?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the relationship between Mean Anomaly and the orbital period?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How accurate does a Mean Anomaly calculation need to be for most applications?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Are there any common pitfalls or mistakes to avoid when working with Mean Anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you recommend some resources for learning more about Mean Anomaly in orbital mechanics?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what exactly is Mean Anomaly, and why is it important for orbital stuff?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate the Mean Anomaly for a satellite's orbit? Like, is it based on time or something else?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain the difference between Mean Anomaly and True Anomaly? I get confused with all these terms.\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Why do we use Mean Anomaly instead of other orbital parameters? What makes it special?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does Mean Anomaly help in predicting a satellite's position over time? Is it like a shortcut for calculations?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is Mean Anomaly the same for all types of orbits, like elliptical or circular? Or does it change depending on the shape?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the Mean Anomaly change as a satellite moves along its orbit? Does it increase or decrease?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give an example of when Mean Anomaly is used in real-world satellite operations? Maybe something like tracking debris?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does Mean Anomaly relate to Kepler's laws of planetary motion? Are they connected somehow?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if the Mean Anomaly is negative? Does that affect calculations or is it just a number?\n",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How accurate is Mean Anomaly when used for long-term orbital predictions? Can it drift over time?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you explain what mean anomaly actually means in simple terms?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the mean anomaly differ from the true anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What role does the mean anomaly play in predicting the satellite's position?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you walk me through how to calculate the mean anomaly from the orbital elements?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "If the mean anomaly is 90�, where exactly is the satellite in its orbit?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the mean anomaly constant over time, or does it change as the satellite moves?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do we use mean anomaly to schedule communication windows with the satellite?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you show me an example of how mean anomaly is used in mission planning?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if there's a perturbation that changes the mean anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a simple way to remember how mean anomaly relates to time since periapsis?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Could I use mean anomaly to estimate how long until the next pass over a specific ground station?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how do you calculate Mean Anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between Mean Anomaly and True Anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the Mean Anomaly change over time in an elliptical orbit?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain why Mean Anomaly is used instead of some other parameter?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a specific formula to compute Mean Anomaly from Keplerian elements?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the relationship between Mean Anomaly and orbital period?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How accurate is the Mean Anomaly when considering perturbations in the orbit?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me more about how Mean Anomaly is used in mission planning for satellites like yourself?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to convert Mean Anomaly to other types of anomalies, like Eccentric Anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the impact of using an approximate value of Mean Anomaly on orbital calculations?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you account for relativistic effects on the Mean Anomaly in your calculations?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you explain what the Mean Anomaly actually means in simple terms?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you use the Mean Anomaly to track a satellite's position over time?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the Mean Anomaly like an average of the satellite's orbit, or is there more to it?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Why can't we just use the True Anomaly instead of the Mean Anomaly for calculations?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Does the Mean Anomaly change depending on the shape of the orbit?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the Mean Anomaly help when predicting where a satellite will be in a few hours?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give an example of when the Mean Anomaly is really useful in real life?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between the Mean Anomaly and the Eccentric Anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do you calculate the Mean Anomaly from other orbital parameters?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you use the Mean Anomaly for things like space missions or just theoretical stuff?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the Mean Anomaly something that's constantly updated as the satellite moves?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how do I interpret the mean anomaly when planning my orbit?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain why mean anomaly is different from true anomaly in layman terms?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What does the mean anomaly tell me about my satellite's position at a given time?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "If I change the mean anomaly value, how will my spacecraft's trajectory change?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the mean anomaly constant for a circular orbit or does it vary?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How often should I recalculate the mean anomaly during a mission?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What are the typical units used for mean anomaly and how do I convert them?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can mean anomaly help me predict the exact moment when my satellite will pass over a location?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the mean anomaly relate to the orbital period?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "If my orbit is highly eccentric, does the mean anomaly still give a good estimate?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What software tools can I use to calculate and visualize mean anomaly for my mission?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the formula to calculate the Mean Anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm having trouble understanding why we need Mean Anomaly for orbital calculations.",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain how Mean Anomaly is related to the actual position of an object in space?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the difference between Mean Anomaly and Eccentric Anomaly?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I convert from Mean Anomaly to a specific time or date?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to calculate Mean Anomaly without knowing the semi-major axis?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you provide some examples of using Mean Anomaly in real-world orbital calculations?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the units for Mean Anomaly, degrees or radians?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How does Mean Anomaly change over time due to gravitational influences?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a maximum value for Mean Anomaly or can it go up to infinity?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you recommend any resources for learning more about Mean Anomaly and its applications?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you explain what the Mean Anomaly is in simple terms?",
+        "Label": "ORBIT_GET_MEAN_ANOMALY",
+        "Language": "en"
+    },
+    {
+        "Question": "How much battery do you have left?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me your current battery level?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's your battery percentage right now?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How's your battery doing these days?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Are you running low on power?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current state of charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How full is your battery right now?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you need a charge soon?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How long until your battery is empty?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you check your remaining battery time?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the estimated battery life left?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's the current battery percentage?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how much charge is left in the battery?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Do I still have enough power for the next experiment?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How full is the battery right now?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the state of charge on the battery?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the battery at 50% or higher?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me the battery level in percentage?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Any chance the battery is draining fast?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How many percent of battery are we running with?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the battery still above 75%?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "When will the battery hit 20% next?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my battery level right now?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is my phone fully charged?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the remaining percentage of my battery?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How much power do I have left in my device?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current State of Charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it safe to use my laptop with this SoC?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Will I make it through the day on this battery level?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you estimate when I'll need to charge again?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the lowest SoC that's still considered healthy?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a warning threshold for low power situations?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How much battery life do I have left in reserve?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's my current battery level?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how much longer the battery will last before needing a charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I know if the battery is getting low?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the best way to keep the battery charged for a long time?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to check the battery percentage without looking at the dashboard?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Why does the battery drain faster when I use certain features?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if I leave the battery at 100% for too long?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How does temperature affect the battery's charge level?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain what 'state of charge' really means?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What should I do if the battery drops below 20%?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How can I make sure the battery stays healthy over time?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much charge do I have left?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know my battery percentage right now?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the current state of charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the SoC level at the moment?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Any idea how many percent of the battery remains?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the battery above 50% or below?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me the exact battery percentage?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How much power is left in the battery?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Do I still have enough charge for the mission?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the remaining charge level?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the battery close to depletion?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How much battery power is left in my car?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my current state of charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how many percent of the battery is remaining?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Do I have enough juice to make it home?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the estimated time to empty the battery?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How full is the gas tank, I mean, the battery?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is my phone's battery almost dead?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the battery percentage on my tablet?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an update on the car's state of charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Do we have enough power left to make it through the night?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How many percent is the battery at right now?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much battery do I have left?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the current SoC percentage?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the remaining charge on my battery?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How full is the battery right now?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, what's the battery level?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to check the battery percentage?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How long until the battery is empty?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you let me know when the battery gets low?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current state of charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How much power is left in the system?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, could you show me the battery remaining?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's our battery at right now? How much charge do we have left?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know the current battery percentage? Just curious.",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the SoC like this morning? Any changes?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an update on the battery level? I'm trying to schedule some ops.",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, how many percent charge does the battery have now?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Any chance you can tell me the current SoC? Need to know if we have enough power.",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the battery charge state right now? I'm planning the next experiment.",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you drop me the current battery percentage? Thanks!",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey, how's the battery holding up? Percent charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you have any numbers on the remaining battery life? Just a quick check.",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the current SoC? I want to make sure we�re good for the next mission.",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, what's my phone's current battery percentage?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How much juice do I have left in my tablet?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, can you tell me how full the car battery is?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the remaining power in my laptop?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm running low on charge, how much SoC do I have left?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "How many percent of battery life is left in my smartwatch?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "My phone's dying, what's its current State of Charge?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you check the battery level in my e-bike?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, how full is my power bank?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "What's my drone's remaining flight time due to low battery?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm worried about running out of charge, what's my current SoC?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me what the current battery level is?",
+        "Label": "POWER_GET_SOC",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much battery have we used so far?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current DoD level?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How low is the battery right now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Have we used more than 50% of the energy?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What percentage of the battery is left?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the DoD higher than usual today?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How does this DoD compare to yesterday's?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if we hit 80% DoD?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the exact energy used in kWh?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How long until we need to recharge based on this DoD?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Should we be worried about this discharge level?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How much battery power have we used up so far?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how deep our batteries are discharged right now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current Depth of Discharge reading for our batteries?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Have our batteries been drained to 50% capacity yet?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there enough charge left in the batteries to make it through this mission?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How much energy has been drawn from the batteries during the last orbit?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an update on the remaining battery life at this DoD level?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Are our power cells still within their expected service lifetime at this discharge rate?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Has the battery's capacity been affected by this high DoD we're experiencing now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if we continue to operate at these low charge levels for extended periods?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Will recharging from this point restore the batteries' original capacity or will it be reduced?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much of the battery have we used so far?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the current depth of discharge?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the battery's DoD right now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How much energy has been drained from the battery?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, what's the percentage of battery used?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you check the DoD for me?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How deep is the battery discharge at the moment?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current battery usage percentage?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, how much of the battery is left?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you let me know how much energy has been used from the battery?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current DoD level?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much of the battery's been drained today?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me the current depth of discharge for the battery?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the percentage of battery energy that's been used up?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the DoD at a safe level for the next mission?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How close are we to hitting the maximum depth of discharge?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Do I need to plan a recharge before the next maneuver?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the battery's current DoD compared to yesterday?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Are we near the 80% discharge threshold?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you give me a quick check on how much power is left?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the battery still in good health based on the DoD?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the trend in DoD over the past few hours?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current Depth of Discharge?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How much energy has been used from the battery so far?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me how deep we've discharged the power source?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to get the percentage of battery life remaining after discharge?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the current DoD compare to our mission requirements?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Has the Depth of Discharge exceeded any safety thresholds yet?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "I'm trying to conserve energy - can you remind me what my DoD is now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is it possible for me to adjust settings based on the actual DoD reading?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How often does Estigia update its depth of discharge readings?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the typical range for a normal Depth of Discharge in our mission profile?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain why my DoD increased suddenly after that last recharge?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much of the battery have we used so far?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you tell me what the current Depth of Discharge is?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How much energy is left in the battery right now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Does a higher DoD mean we�re using more power than usual?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the difference between a 50% and 80% DoD?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Have we used more than half the battery capacity yet?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How often should we check the DoD to avoid over-discharging?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if the DoD gets too high?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you show me how the battery usage has changed over the mission?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Does temperature affect how the DoD is measured?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to reset the DoD counter if needed?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much of the battery is drained right now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Do you know what the current Depth of Discharge is?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you tell me the percentage of energy used from the battery?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the DoD for the last recharge cycle?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How much battery power have we spent so far today?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is the DoD at a safe level for our mission?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me an update on the battery's current discharge depth?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the current state of charge versus depth of discharge?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How close are we to the battery�s max DoD threshold?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Could you compare today's DoD to yesterday's?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What�s the battery's DoD after the last scientific experiment?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, how much of our battery energy has been used so far?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current Depth of Discharge, do you have an update for me?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, can you tell me how long we've been running on reduced power levels now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How many percent of the total capacity is left in our batteries at this point?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you give me a more detailed explanation of your DoD calculation methods?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Has there been any impact on our systems due to low battery voltage?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Are we still within the safe operating range for our equipment, Estigia?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the estimated time until we need to recharge or replace the batteries completely?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How often do you update your DoD estimates, is it in real-time or with some delay?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Estigia, I'd like to know more about how you handle battery degradation over time, can you explain?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you provide a breakdown of our energy usage patterns, so I understand where the power is going?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me how much of the battery has been used so far?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the current Depth of Discharge on the satellite?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How do I know how much energy the battery has lost?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you explain what the DoD percentage means in simple terms?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Is there a way to check the battery's DoD without special tools?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What happens if the DoD gets too high?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the DoD affect the satellite's performance?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "What's the safest DoD level to keep the battery healthy?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Can you show me how the DoD changes over time?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Why is tracking DoD important for the satellite's power system?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "How does the DoD compare between different battery types?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    },
+    {
+        "Question": "Hey Estigia, can you tell me what your depth of discharge is right now?",
+        "Label": "POWER_GET_DOD",
+        "Language": "en"
+    }
+]
